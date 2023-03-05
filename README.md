@@ -11,6 +11,10 @@ The website will consist of a main index page which will have links to a few rec
 - basic git
 - basic html
 
+## Live Preview
+
+https://s3nsu1k4n.github.io/odin-recipes/
+
 ### Source of images and information
 
 - https://www.allrecipes.com/
