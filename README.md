@@ -10,3 +10,7 @@ The website will consist of a main index page which will have links to a few rec
 
 - basic git
 - basic html
+
+### Source of images and information
+
+- https://www.allrecipes.com/
