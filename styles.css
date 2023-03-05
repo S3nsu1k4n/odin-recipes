@@ -1,0 +1,29 @@
+
+html {
+    color: rgb(0, 0, 0);
+    background-color: rgb(74, 74, 74);
+    font-size: 14px;
+    font-family: "Times New Roman", sans-serif;
+}
+h1 {
+    color: red;
+    background-color: black;
+    font-family: "Helvetica", sans-serif;
+}
+h2 {
+    color: green;
+    font-family: "Helvetica", sans-serif;
+}
+.description{
+    background-color: aqua;
+}
+.ingredients{
+    background-color: aqua;
+}
+.steps{
+    background-color: aqua;
+}
+img {
+    height: auto;
+    width: 400px;
+}
